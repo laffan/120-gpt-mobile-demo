@@ -20,10 +20,7 @@ async function useChatGPT( selection ) {
     ],
   });
 
-  // console.log(response);
   return response.choices[0].message.content.trim();
-
-  // scene.emit("chatGPTResponse", text);
 }
 
 export default useChatGPT;
