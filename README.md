@@ -12,6 +12,8 @@ This project requires a `.env` file at root which contains the following line :
 VITE_OPENAI_API_KEY=your-open-ai-api-key
 ```
 
+To get an API key, you will first need to [sign up with their developer site](https://platform.openai.com/signup) and generate the key on the [API key page](https://platform.openai.com/api-keys). 
+
 Once this is in place, run 
 
 `npm install`
