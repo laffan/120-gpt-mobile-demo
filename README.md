@@ -30,10 +30,7 @@ but all of them will support some version of this feature.
 
 ### As a Native App
 
-To deploy to iOS/Android, run
-
-
-Note : This project uses [CapacitorJS](https://capacitorjs.com/) to convert
+This project uses [CapacitorJS](https://capacitorjs.com/) to convert
 the site in to a working iOS or Android app. If you would like to do the same
 to your own app, simply run the following series of npm/npx commands.
 
