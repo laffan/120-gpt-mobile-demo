@@ -1,7 +1,7 @@
 # GPT / Mobile Demo (CMPM 120)
 
 A simple demo showing off how [OpenAI's ChatGPT](https://platform.openai.com/docs/overview) and [CapacitorJS](https://capacitorjs.com/) can be used 
-with [Phaser](https://phaser.io/) to create a simple mobile, AI-powered game.  
+with [Phaser](https://phaser.io/) to create a simple, mobile, AI-powered game.  
 
 
 ## Installation
