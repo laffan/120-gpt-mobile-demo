@@ -1,10 +1,8 @@
 # GPT / Mobile Demo (CMPM 120)
 
-A simple demo showing of ChatGPT and CapacitorJS can be used 
-with phaser to create a simple mobile, AI-powered game.  
+A simple demo showing off how [OpenAI's ChatGPT](https://platform.openai.com/docs/overview) and [CapacitorJS](https://capacitorjs.com/) can be used 
+with [Phaser](https://phaser.io/) to create a simple mobile, AI-powered game.  
 
-Apart from being mobile-ready, [CapacitorJS](https://capacitorjs.com/) 
-is installed, allowing the project to be turned in to a native mobile app.
 
 ## Installation
 
@@ -33,7 +31,6 @@ npm run build
 npm install @capacitor/ios
 npx cap add ios
 ```
-
 
 ### Deployment 
 
